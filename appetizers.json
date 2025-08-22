@@ -5,7 +5,7 @@
       "name": "Garlic Parmesan Wings",
       "description": "Crispy chicken wings tossed in garlic parmesan sauce.",
       "price": 8.99,
-      "imageURL": "https://images.unsplash.com/photo-1600891963934-ae2b4493c8c7",
+      "imageURL": "https://images.unsplash.com/photo-1594396442533-790e40718346?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 560,
       "protein": 42,
       "carbs": 18
@@ -15,7 +15,7 @@
       "name": "Bruschetta",
       "description": "Grilled bread topped with fresh tomatoes, garlic, and basil.",
       "price": 6.5,
-      "imageURL": "https://images.unsplash.com/photo-1603052875692-68fcef2ad0f4",
+      "imageURL": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 250,
       "protein": 6,
       "carbs": 32
@@ -25,7 +25,7 @@
       "name": "Mozzarella Sticks",
       "description": "Deep fried mozzarella cheese served with marinara sauce.",
       "price": 7.25,
-      "imageURL": "https://images.unsplash.com/photo-1576402187873-25c5895b9f10",
+      "imageURL": "https://images.unsplash.com/photo-1734774924912-dcbb467f8599?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 420,
       "protein": 20,
       "carbs": 36
@@ -35,7 +35,7 @@
       "name": "Shrimp Cocktail",
       "description": "Chilled shrimp served with tangy cocktail sauce.",
       "price": 9.75,
-      "imageURL": "https://images.unsplash.com/photo-1562967916-eb82221dfb36",
+      "imageURL": "https://images.unsplash.com/photo-1626663011519-b42e5ee10056?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 220,
       "protein": 30,
       "carbs": 8
@@ -45,7 +45,7 @@
       "name": "Loaded Nachos",
       "description": "Tortilla chips loaded with cheese, jalapeños, and sour cream.",
       "price": 10.99,
-      "imageURL": "https://images.unsplash.com/photo-1613145993489-5f0600a9963f",
+      "imageURL": "https://plus.unsplash.com/premium_photo-1665972824374-9bac6a0862a0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 680,
       "protein": 24,
       "carbs": 58
@@ -55,7 +55,7 @@
       "name": "Stuffed Mushrooms",
       "description": "Mushrooms stuffed with cheese and herbs.",
       "price": 6.75,
-      "imageURL": "https://images.unsplash.com/photo-1601050690597-6353edfa4041",
+      "imageURL": "https://images.unsplash.com/photo-1622268805718-ca073548d4ad?q=80&w=2505&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 190,
       "protein": 8,
       "carbs": 14
@@ -65,7 +65,7 @@
       "name": "Spinach Artichoke Dip",
       "description": "Warm spinach and artichoke dip served with tortilla chips.",
       "price": 8.5,
-      "imageURL": "https://images.unsplash.com/photo-1576402187873-25c5895b9f10",
+      "imageURL": "https://images.unsplash.com/photo-1703219339970-98cd69cc896f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 460,
       "protein": 12,
       "carbs": 28
@@ -75,7 +75,7 @@
       "name": "Onion Rings",
       "description": "Crispy battered onion rings with spicy aioli.",
       "price": 5.99,
-      "imageURL": "https://images.unsplash.com/photo-1602334912038-2c3f7e02a7f1",
+      "imageURL": "https://images.unsplash.com/photo-1630825533852-796a8491c0ec?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 520,
       "protein": 5,
       "carbs": 48
@@ -85,7 +85,7 @@
       "name": "Fried Calamari",
       "description": "Tender calamari rings lightly breaded and fried.",
       "price": 9.99,
-      "imageURL": "https://images.unsplash.com/photo-1575296200143-5d8cc8bfa81b",
+      "imageURL": "https://images.unsplash.com/photo-1682264895449-f75b342cbab6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 410,
       "protein": 26,
       "carbs": 20
@@ -95,7 +95,7 @@
       "name": "Cheesy Garlic Bread",
       "description": "Fresh baked bread smothered in garlic butter and melted cheese.",
       "price": 5.25,
-      "imageURL": "https://images.unsplash.com/photo-1605475122245-b1ec8e7c1e4e",
+      "imageURL": "https://images.unsplash.com/photo-1598785244280-7a428600d053?q=80&w=2038&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 330,
       "protein": 10,
       "carbs": 38
@@ -105,7 +105,7 @@
       "name": "Deviled Eggs",
       "description": "Classic deviled eggs topped with paprika and chives.",
       "price": 4.99,
-      "imageURL": "https://images.unsplash.com/photo-1589307004395-e7c14f70fb3d",
+      "imageURL": "https://images.unsplash.com/photo-1551014029-03820d0b88f5?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 180,
       "protein": 12,
       "carbs": 3
@@ -115,7 +115,7 @@
       "name": "Bacon-Wrapped Dates",
       "description": "Sweet dates wrapped in savory bacon, roasted to perfection.",
       "price": 7.5,
-      "imageURL": "https://images.unsplash.com/photo-1673449176134-ff20a2fcd60f",
+      "imageURL": "https://images.unsplash.com/photo-1751718915745-1427a012a9e7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 290,
       "protein": 9,
       "carbs": 22
@@ -125,7 +125,7 @@
       "name": "Fried Pickles",
       "description": "Crispy fried pickles served with ranch dipping sauce.",
       "price": 6.25,
-      "imageURL": "https://images.unsplash.com/photo-1631521939790-86514c74b7f1",
+      "imageURL": "https://plus.unsplash.com/premium_photo-1664476636559-6dbd29f4c31e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 310,
       "protein": 4,
       "carbs": 26
@@ -135,7 +135,7 @@
       "name": "Buffalo Cauliflower Bites",
       "description": "Spicy buffalo sauce tossed on crispy roasted cauliflower.",
       "price": 7.0,
-      "imageURL": "https://images.unsplash.com/photo-1589927986089-35812388d1d1",
+      "imageURL": "https://images.unsplash.com/photo-1673238112467-fb2c8fbdb9b2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 270,
       "protein": 6,
       "carbs": 22
@@ -145,7 +145,7 @@
       "name": "Caprese Skewers",
       "description": "Mozzarella, cherry tomatoes, and basil drizzled with balsamic glaze.",
       "price": 5.75,
-      "imageURL": "https://images.unsplash.com/photo-1600891963785-c7f4b2081f80",
+      "imageURL": "https://plus.unsplash.com/premium_photo-1677619680392-b3573dc64f4d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "calories": 200,
       "protein": 10,
       "carbs": 6
